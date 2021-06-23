@@ -6,3 +6,7 @@
 
 # ランキング
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cosmic-rare)](https://github.com/ryo-ma/github-profile-trophy)
+
+for-the-badge
+
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=for-the-badge">
