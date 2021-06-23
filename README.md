@@ -11,4 +11,4 @@ for-the-badge
 
 <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=for-the-badge">
 
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=for-the-badge&logoColor=white">
