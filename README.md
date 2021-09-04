@@ -6,8 +6,8 @@
 
 有名なサービスを作りたい！（金がほしい）
 
-# Flaskのログイン機能
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cosmic-rare&repo=login&title_color=7289da&icon_color=7289da)](https://github.com/Cosmic-rare/login)
+# 一番進化を感じられるRailsリポジトリ
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cosmic-rare&repo=rails-devise&title_color=7289da&icon_color=7289da)](https://github.com/Cosmic-rare/rails-devise)
 
 ## ランキング
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cosmic-rare)](https://github.com/ryo-ma/github-profile-trophy)
