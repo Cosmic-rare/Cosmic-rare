@@ -6,6 +6,8 @@
 
 有名なサービスを作りたい！（金がほしい）
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cosmic-rare&hide_border=true)](https://git.io/streak-stats)
+
 # 一番進化を感じられるRailsリポジトリ
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cosmic-rare&repo=rails-devise&title_color=7289da&icon_color=7289da)](https://github.com/Cosmic-rare/rails-devise)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cosmic-rare&repo=rails-vue_ajax&title_color=7289da&icon_color=7289da)](https://github.com/Cosmic-rare/rails-vue_ajax)
