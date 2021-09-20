@@ -2,6 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-rare&layout=compact&title_color=7289da&icon_color=7289da)](https://github.com/anuraghazra/github-readme-stats)  
 
 Web系だと思ってる中学生です
+
 Express使うかRails使うか悩んでます。
 
 # DiscordとWeb両方からログインする
