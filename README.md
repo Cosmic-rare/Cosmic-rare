@@ -3,10 +3,9 @@
 
 Web系だと思ってる中学生です
 
-Express使うかRails使うか悩んでます。
+ExpressとReactとMongodbを使うことに決めました。
 
-# DiscordとWeb両方からログインする
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cosmic-rare&repo=login&title_color=7289da&icon_color=7289da)](https://github.com/Cosmic-rare/login)
+今は結構たくさんある負の遺産をどうしようか悩み中。動かなかったり、穴だらけだったりでゴミが多すぎる。まぁ、成長したってことかな?
 
 # 小説家になろうを保存する
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cosmic-rare&repo=novel&title_color=7289da&icon_color=7289da)](https://github.com/Cosmic-rare/novel)
