@@ -4,7 +4,7 @@
 <br>
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-rare&layout=compact&title_color=7289da&icon_color=7289da)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-rare&layout=compact&title_color=7289da&icon_color=7289da)](https://github.com/boast-app)
 </br>
 </br>
 </br>
