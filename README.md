@@ -1,8 +1,8 @@
 [![Cosmic-rare's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cosmic-rare&show_icons=true&title_color=7289da&icon_color=7289da)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-rare&layout=compact&title_color=7289da&icon_color=7289da)](https://github.com/anuraghazra/github-readme-stats)  
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmic-rare&layout=compact&title_color=7289da&icon_color=7289da)](https://github.com/boast-app)
+## Boast-app
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boast-app&layout=compact&title_color=7289da&icon_color=7289da)](https://github.com/boast-app)
 
 
 Web系だと思ってる中学生です
